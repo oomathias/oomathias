@@ -1,16 +1,13 @@
-## Hi there 👋
+<img width="1500" height="500" src="https://github.com/user-attachments/assets/97ff0918-86b5-404d-96a9-9473ba9d8051" />
 
-<!--
-**oomathias/oomathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mathias
 
-Here are some ideas to get you started:
+I make computers do things they weren’t supposed to do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://m7b.io
+
+## Featured projects
+
+- 🦘 [`snav`](https://github.com/oomathias/snav) - Interactive symbol finder.
+- 🔥 [`overseer`](https://github.com/oomathias/overseer) - macOS process monitor.
+- 🛸 [`flyvpn`](https://github.com/oomathias/flyvpn) - CLI to spin up a Tailscale VPN on Fly.io.
