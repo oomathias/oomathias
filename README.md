@@ -2,7 +2,7 @@
 
 # Mathias
 
-I make computers do things they weren’t supposed to do.
+I build to solve real problems.
 
 https://m7b.io
 
