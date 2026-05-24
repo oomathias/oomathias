@@ -8,6 +8,6 @@ https://m7b.io
 
 ## Featured projects
 
--  [`🦘 snav`](https://github.com/oomathias/snav) — Interactive symbol finder
-- [`🔥 overseer`](https://github.com/oomathias/overseer) — macOS process monitor
-- [`🛸 flyvpn`](https://github.com/oomathias/flyvpn) — Tailscale VPN on Fly.io
+-  [`🦘 snav`](https://github.com/m7b-io/snav) — Interactive symbol finder
+- [`🔥 overseer`](https://github.com/m7b-io/overseer) — macOS process monitor
+- [`🛸 flyvpn`](https://github.com/m7b-io/flyvpn) — Tailscale VPN on Fly.io
